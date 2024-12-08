@@ -17,3 +17,14 @@
 # Ignore all local history of files
 .history
 .ionide
+
+# node modules
+**/node_modules/
+
+# env files
+**/.env
+**/env
+
+# Python
+**/venv/
+**/.venv/
